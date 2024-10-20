@@ -1,0 +1,17 @@
+D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.exe
+D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.deps.json
+D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.runtimeconfig.json
+D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.dll
+D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.pdb
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.AssemblyInfoInputs.cache
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.AssemblyInfo.cs
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.CoreCompileInputs.cache
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.dll
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\refint\LeetCodes.dll
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.pdb
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.genruntimeconfig.cache
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\ref\LeetCodes.dll
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.AssemblyReference.cache
+D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.Up2Date
