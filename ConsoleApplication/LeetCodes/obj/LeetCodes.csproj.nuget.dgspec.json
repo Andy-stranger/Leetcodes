@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# practice\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj": {}
+    "D:\\Repos\\LeetCode_Repo\\Leetcodes\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj": {}
   },
   "projects": {
-    "D:\\C# practice\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj": {
+    "D:\\Repos\\LeetCode_Repo\\Leetcodes\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# practice\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj",
+        "projectUniqueName": "D:\\Repos\\LeetCode_Repo\\Leetcodes\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj",
         "projectName": "LeetCodes",
-        "projectPath": "D:\\C# practice\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj",
+        "projectPath": "D:\\Repos\\LeetCode_Repo\\Leetcodes\\ConsoleApplication\\LeetCodes\\LeetCodes.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\C# practice\\ConsoleApplication\\LeetCodes\\obj\\",
+        "outputPath": "D:\\Repos\\LeetCode_Repo\\Leetcodes\\ConsoleApplication\\LeetCodes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
