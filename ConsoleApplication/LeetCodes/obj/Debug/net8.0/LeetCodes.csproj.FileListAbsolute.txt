@@ -15,3 +15,21 @@ D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\ref\LeetCodes.dll
 D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.AssemblyReference.cache
 D:\C# practice\ConsoleApplication\LeetCodes\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\C# practice\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.Up2Date
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.exe
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.deps.json
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.runtimeconfig.json
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.dll
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\bin\Debug\net8.0\LeetCodes.pdb
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.AssemblyReference.cache
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.AssemblyInfoInputs.cache
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.AssemblyInfo.cs
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.CoreCompileInputs.cache
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.sourcelink.json
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.csproj.Up2Date
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.dll
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\refint\LeetCodes.dll
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.pdb
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\LeetCodes.genruntimeconfig.cache
+D:\Repos\LeetCode_Repo\Leetcodes\ConsoleApplication\LeetCodes\obj\Debug\net8.0\ref\LeetCodes.dll

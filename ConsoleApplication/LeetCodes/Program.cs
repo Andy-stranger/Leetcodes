@@ -112,7 +112,7 @@ public class Solution
         int[] arr = [5,4,3,2,1];
         foreach(var i in arr) Console.Write(i + " ");
         Console.WriteLine();
-        arr.QuickSort(0, arr.Length-1);
+        arr.BubbleSort();
         foreach (var i in arr) Console.Write(i + " ");
         Console.ReadLine();
     }

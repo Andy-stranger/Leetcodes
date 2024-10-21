@@ -30,10 +30,10 @@
             try
             {
                 int n = array.Length;
-                for (int i = 0; i < n; i++)
+                for (int i = n-1; i >= 0; i--)
                 {
                     bool isSorted = true;
-                    for (int j = 0; j < n - 1 - i; j++)
+                    for (int j = 0; j <= i-1; j++)
                     {
                         if (array[j] > array[j + 1])
                         {
